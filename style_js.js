@@ -41,12 +41,12 @@ var myTheme = {
 		if (this.isMobile()) {
 			$(".MultiSelectIdevice,.MultichoiceIdevice,.QuizTestIdevice,.TrueFalseIdevice").each(function(){
 				$('input:radio',this).screwDefaultButtons({
-					image: 'url("_style_input_radio.png")',
+					image: 'url("style_input_radio.png")',
 					width: 30,
 					height: 30
 				});
 				$('input:checkbox',this).screwDefaultButtons({
-					image: 'url("_style_input_checkbox.png")',
+					image: 'url("style_input_checkbox.png")',
 					width: 30,
 					height: 30
 				});

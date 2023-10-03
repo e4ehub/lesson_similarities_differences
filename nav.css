@@ -62,7 +62,7 @@ body{padding:0;text-align:center}
 }
 /* eXeLearning Style Designer */#content{/*pageWidth*/width:70%;/*wrapperShadowColor*/box-shadow:0 0 15px 0 #999999;/*contentBGColor*/background-color:#f9f9f9;}
 /*useNavigationIcons*//*blackNavigationIcons*/.pagination a span{position:absolute;overflow:hidden;clip:rect(0,0,0,0);height:0;}
-.pagination a,.pagination a:hover,.pagination a:focus{display:block;position:absolute;right:52px;width:32px;height:32px;padding:0;background:url(_style_icons_black.png) no-repeat 0 0;}
+.pagination a,.pagination a:hover,.pagination a:focus{display:block;position:absolute;right:52px;width:32px;height:32px;padding:0;background:url(style_icons_black.png) no-repeat 0 0;}
 .pagination .next,.pagination .next:hover,.pagination .next:focus{right:0;background-position:-50px 0;}
 .pagination .print-page,.pagination .print-page:hover,.pagination .print-page:focus{right:104px;background-position:-200px 0;}
 #topPagination{width:50%;min-width:400px;}
@@ -70,8 +70,8 @@ body{padding:0;text-align:center}
 #bottomPagination a{top:20px;right:72px;margin:0;}
 #bottomPagination .next{right:20px;}
 #nav-toggler a span{position:absolute;overflow:hidden;clip:rect(0,0,0,0);height:0;}
-#nav-toggler a{display:block;width:32px;height:32px;padding:0;background:url(_style_icons_black.png) no-repeat -100px 0;}
-#nav-toggler a:hover{background:url(_style_icons_black.png) no-repeat -100px 0;}
+#nav-toggler a{display:block;width:32px;height:32px;padding:0;background:url(style_icons_black.png) no-repeat -100px 0;}
+#nav-toggler a:hover{background:url(style_icons_black.png) no-repeat -100px 0;}
 #nav-toggler .show-nav{background-position:-150px 0;}
 #nav-toggler .show-nav:hover{background-position:-150px 0;}
 .pagination a,#nav-toggler a{filter:alpha(opacity=70);opacity:.7;}

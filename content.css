@@ -23,7 +23,7 @@ p{margin:1em 0}
 .FileAttachIdeviceInc .iDevice_content{margin-bottom:-.5em}
 /* Hide/Show iDevice */.toggle-idevice{display:block;margin:0;text-align:right}
 .iDevice_header .toggle-idevice{position:absolute;top:14px;right:0}
-.toggle-idevice a{display:inline-block;width:16px;height:16px;background:url(_style_icons.png) no-repeat -50px -50px;outline:none}
+.toggle-idevice a{display:inline-block;width:16px;height:16px;background:url(style_icons.png) no-repeat -50px -50px;outline:none}
 .toggle-idevice .show-idevice{background-position:0 -50px}
 .toggle-idevice span{position:absolute;overflow:hidden;clip:rect(0,0,0,0);height:0}
 .toggle-idevice a:hover,.toggle-idevice a:focus{filter:alpha(opacity=100);opacity:1}
@@ -60,7 +60,7 @@ li{list-style-position:outside}
 .readingIdevice .feedbackbutton,.CasestudyIdevice .feedbackbutton,.ReflectionIdevice .feedbackbutton{margin:.5em 0 1em 0}
 .TrueFalseIdevice .exe-radio-option.styledRadio{display:inline-block;vertical-align:middle;margin:-2px 5px 0 0}
 /* Licenses */#packageLicense{margin:2.5em 0 1.5em 0;text-align:left;line-height:1.2em;font-size:.9em}
-#packageLicense.cc{padding-left:95px;background:url(_style_licenses.png) no-repeat 0 0}
+#packageLicense.cc{padding-left:95px;background:url(style_licenses.png) no-repeat 0 0}
 #packageLicense.cc-by-sa{background-position:0 -100px}
 #packageLicense.cc-by-nd{background-position:0 -200px}
 #packageLicense.cc-by-nc{background-position:0 -300px}
